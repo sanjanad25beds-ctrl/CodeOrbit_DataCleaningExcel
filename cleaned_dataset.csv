@@ -1,0 +1,31 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,Region,Revenue
+ORD-1001,2024-05-03,Standing Desk,Furniture,12,19481.45,East,233777.4
+ORD-1002,2024-06-20,Desk Lamp,Furniture,11,1500.55,South,16506.05
+ORD-1003,2024-01-06,Notebook Set,Stationery,5,408.41,South,2042.05
+ORD-1004,2024-06-01,Standing Desk,Furniture,2,19031.78,North,38063.56
+ORD-1005,2024-07-24,Standing Desk,Furniture,1,18364.98,South,18364.98
+ORD-1006,2024-10-18,Desk Lamp,Unknown,9,1381.82,South,12436.38
+ORD-1007,2024-06-24,Gel Pen Pack,Stationery,10,190.75,West,1907.5
+ORD-1008,2024-10-06,USB-C Hub,Electronics,2,2037.83,West,4075.66
+ORD-1009,2024-05-27,Gel Pen Pack,Stationery,11,186.38,North,2050.18
+ORD-1010,2024-10-08,Mechanical Keyboard,Electronics,8,3234.44,South,25875.52
+ORD-1011,2024-08-02,Mechanical Keyboard,Electronics,6,3068.16,East,18408.96
+ORD-1012,2024-05-18,Water Bottle,Accessories,9,666.92,South,6002.28
+ORD-1013,2024-01-25,Office Chair,Furniture,6,9937.86,North,59627.16
+ORD-1014,2024-01-23,Gel Pen Pack,Stationery,4,193.39,South,773.56
+ORD-1015,2024-03-17,Monitor Stand,Accessories,4,1618.6,North,6474.4
+ORD-1016,2024-07-27,Gel Pen Pack,Stationery,1,193.69,South,193.69
+ORD-1017,2024-03-25,Laptop,Electronics,12,55525.06,North,666300.72
+ORD-1018,2024-11-08,Backpack,Accessories,4,2283.11,West,9132.44
+ORD-1019,2024-03-02,Standing Desk,Furniture,9,18671.63,West,168044.67
+ORD-1020,2024-07-30,Monitor Stand,Accessories,12,1870.72,North,22448.64
+ORD-1021,2024-07-28,Standing Desk,Furniture,4,19177.57,South,76710.28
+ORD-1022,2024-10-16,Water Bottle,Accessories,7,636.96,Unknown,4458.72
+ORD-1023,2024-07-09,Notebook Set,Stationery,4,422.81,West,1691.24
+ORD-1024,2024-02-18,Laptop,Electronics,9,52797.62,South,475178.58
+ORD-1025,2024-09-03,Office Chair,Furniture,6,9020.44,West,54122.64
+ORD-1026,2024-08-02,Wireless Mouse,Electronics,5,883.59,East,4417.95
+ORD-1027,2024-08-27,Standing Desk,Furniture,4,18266.81,East,73067.24
+ORD-1028,2024-10-11,Desk Lamp,Furniture,12,1308.58,West,15702.96
+ORD-1029,2024-01-25,Wireless Mouse,Electronics,1,864.22,North,864.22
+ORD-1030,2024-07-19,Notebook Set,Stationery,7,394.31,West,2760.17
