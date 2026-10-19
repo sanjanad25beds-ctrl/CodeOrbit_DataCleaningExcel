@@ -203,7 +203,7 @@ CodeOrbit_DataCleaningExcel/
 
 ## GitHub repository
 
-Repository URL: `[your-github-repo-url]` ← replace with your repo link after upload.
+Repository URL: `[https://github.com/sanjanad25beds-ctrl/CodeOrbit_DataCleaningExcelyour-github-repo-url]` ← replace with your repo link after upload.
 
 Upload the extracted project files (not the zip) to a public repo named
 `CodeOrbit_DataCleaningExcel`, then paste the repo link into the internship
